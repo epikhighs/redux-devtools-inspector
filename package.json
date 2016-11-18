@@ -1,4 +1,5 @@
 {
+  "wtf": 1,
   "name": "redux-devtools-inspector",
   "version": "0.9.1",
   "description": "Redux DevTools Diff Monitor",
